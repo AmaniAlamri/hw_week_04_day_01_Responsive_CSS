@@ -1,0 +1,38 @@
+html {
+  background-color: bisque;
+  overflow: scroll;
+}
+
+body {
+  line-height: 1.5;
+  color: aliceblue;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Abril Fatface", cursive;
+  margin-top: 0;
+}
+main{
+    background-color: #FFF5D7;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+.margin {margin-bottom: 45px;}
+
+a{
+    font-size: medium;
+}
+
